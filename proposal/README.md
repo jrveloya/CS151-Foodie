@@ -1,8 +1,8 @@
 # Project: SJSU Foodie App
 #### Team #2: Elena Ilic, Manasi Nekkar, Robert Veloya
 
-## Issue
-The issue at hand: Difficulty identifying items on local restaurant menus that are compatible with certain dietary restrictions (vegetarian, vegan, etc). 
+## Issue:
+Difficulty identifying items on local restaurant menus that are compatible with certain dietary restrictions (vegetarian, vegan, etc). 
 
 ### Previous Works:
 !Any relevant previous work? otherwise, delete
