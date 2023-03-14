@@ -2,7 +2,7 @@
 #### Team #2: Elena Ilic, Manasi Nekkar, Robert Veloya
 
 ## Problem to resolve: 
-Difficulty identifying items on local restaurant menus that are compatible with certain dietary restrictions (vegetarian, vegan, etc). 
+Difficulty identifying items on local restaurant menus that are compatible with certain dietary restrictions (vegetarian, vegan, etc). Enable Spartans to easily pick and choose the places they would like to eat at with the help of reviews from others. 
 
 ### Previous Works:
 !Any relevant previous work? otherwise, delete
@@ -11,14 +11,20 @@ Difficulty identifying items on local restaurant menus that are compatible with 
 PC application.
 
 ## Description:
-The SJSU Foodie App is designed to accomodate to students that adhere to specific dietary restrictions. It is designed to be a collection of menu items that fit according to a Spartan's lifestyle. Spartans can leave reviews, recommend food items, and provide tips and tricks when visiting a specific restaurant in campus -- or even the Spartan Food Pantry!
+The SJSU Foodie App is designed to accomodate to students that adhere to specific dietary restrictions. It is designed to be a collection of menu items that fit according to a Spartan's lifestyle. Spartans can leave reviews, recommend food items, and provide tips and tricks when visiting a specific restaurant in campus -- or even the Spartan Food Pantry. The application is community-based with menu items being constantly updated once changed by the restaurants.
 
 ## Functionality: 
 By implementing an application that takes input from users (similar to a recommendation system) we can create a "database" of local menu items and what dietary restrictions they might adhere to. This can then be viewed to see what menu items are compatible with the user's personal potential restrictions. User input also allows for accuracy in restaurant menu items and dietary offerings. The application offers a view of local restaurants and the like, where the user can look at specific menu items and the ratings and reviews left behind by previous users. <br />
 
-Potential idea: classes to identify restaurant, user, review, item. User and Restaurant interact in the main program. Restaurant takes an array of Items to represent its menu, The items themselves could also have their own arrays to signify reviews and also have attributes to signal what dietary needs they fit with. User has a username and password to be able to log into the program. Reviews will be associated with the username of who submitted them. <br />
+Potential restrictions: 
+- Vegetarian
+- Vegan
+- Halal
+- Kosher
+- Gluten free
+- Lactose intolerance
+- Food allergy
 
-Potential restrictions: vegetarian, vegan, halal, kosher, gluten free, lactose intolerance, food allergy, etc
 
 Reviews can also detect if a user review is commenting about these certain topics about the restaurant : <br />
  - Food <br />
@@ -26,7 +32,7 @@ Reviews can also detect if a user review is commenting about these certain topic
  - Service <br />
 Users can also have leave recommendations on the food/drinks that they found that they enjoyed as well as any tips when visiting the store.
 
-
+Potential idea: classes to identify restaurant, user, review, item. User and Restaurant interact in the main program. Restaurant takes an array of Items to represent its menu, The items themselves could also have their own arrays to signify reviews and also have attributes to signal what dietary needs they fit with. User has a username and password to be able to log into the program. Reviews will be associated with the username of who submitted them. <br />
 
 ## Operations:
 ### App user: interacting with system <br />
