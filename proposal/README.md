@@ -16,7 +16,7 @@ The SJSU Foodie App is designed to accomodate to students that adhere to specifi
 ## Functionality: 
 By implementing an application that takes input from users (similar to a recommendation system) we can create a "database" of local menu items and what dietary restrictions they might adhere to. This can then be viewed to see what menu items are compatible with the user's personal potential restrictions. User input also allows for accuracy in restaurant menu items and dietary offerings. The application offers a view of local restaurants and the like, where the user can look at specific menu items and the ratings and reviews left behind by previous users. <br />
 
-Potential idea: classes to identify restaurant, user, review, item. User and Restaurant interact in the main program. Restaurant takes an array of Items to represent its menu, The items themselves could also have their own arrays to signify reviews and also have attributes to signal what dietary needs they fit with. <br />
+Potential idea: classes to identify restaurant, user, review, item. User and Restaurant interact in the main program. Restaurant takes an array of Items to represent its menu, The items themselves could also have their own arrays to signify reviews and also have attributes to signal what dietary needs they fit with. User has a username and password to be able to log into the program. Reviews will be associated with the username of who submitted them. <br />
 
 Potential restrictions: vegetarian, vegan, halal, kosher, gluten free, lactose intolerance, food allergy, etc
 
@@ -34,6 +34,7 @@ Users can also have leave recommendations on the food/drinks that they found tha
 - view restaurants: view all restaurants in an area <br />
 - select restaurant: select the desired restaurant <br />
 - select item: select the desired items <br />
+- log in: log into the system <br />
 
 ### Foodie: serving user requests <br />
 - upload review: upload the user's review to be uploaded <br />
@@ -42,5 +43,6 @@ Users can also have leave recommendations on the food/drinks that they found tha
 - show menu: display a restaurants menu to the user <br />
 - show review: display an item's results to the user <br />
 - tips and recommendations: Provide rating towards a certain item or leave notes for a future customer <br />
+- verify user: recognize user logging into system <br />
 ##### References:
 common dietary restrictions: https://www.medicinenet.com/the_12_most_common_dietary_restrictions/article.htm
