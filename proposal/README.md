@@ -31,6 +31,7 @@ Users can also have leave recommendations on the food/drinks that they found tha
 - view restaurants: view all restaurants in an area <br />
 - select restaurant: select the desired restaurant <br />
 - select item: select the desired items <br />
+- view reviews: view all item reviews <br />
 - log in: log into the system <br />
 
 ### Foodie: serving user requests <br />
