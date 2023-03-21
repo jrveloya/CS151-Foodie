@@ -4,9 +4,6 @@
 ## Problem to resolve: 
 Difficulty identifying items on local restaurant menus that are compatible with certain dietary restrictions (vegetarian, vegan, etc). 
 
-### Previous Works:
-!Any relevant previous work? otherwise, delete
-
 ### Operating Environment:
 PC application.
 
